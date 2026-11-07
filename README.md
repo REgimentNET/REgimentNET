@@ -12,6 +12,7 @@
  <summary align="center"><strong> REGINET INFORMATIVE PANEL </strong></summary>
  <div align="center">
    $\large{\text{\it\color{#61a761}{sneak peak:}}}$ A community Hub for all regiments and pony town members to gather ! it comes with unique mascots, events and a verification system ! 
+  
   coming soon
 </details>
 
