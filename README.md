@@ -20,3 +20,8 @@
 <img src="https://64.media.tumblr.com/c49c69a9a194d3e80b9c789625f44343/2466a251c47cf369-90/s2048x3072/5b656966e978896bdb3c688fe3f99a7bfd6257c4.pnj"
  </p>
 
+<details>
+ <summary align="center"><strong> MORE DETAILS </strong></summary>
+ <div align="center">
+   <img src="https://i.pinimg.com/1200x/25/52/d2/2552d245e96f33a0f53f488f6dbba114.jpg">
+</details>
